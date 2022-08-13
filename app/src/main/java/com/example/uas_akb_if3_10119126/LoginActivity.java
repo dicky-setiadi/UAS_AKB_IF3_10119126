@@ -18,6 +18,10 @@ import com.google.firebase.auth.AuthResult;
 import com.google.firebase.auth.FirebaseAuth;
 import com.google.firebase.auth.FirebaseUser;
 
+// NIM: 10119126
+// Nama: Dicky Setiadi
+// Kelas: IF-3
+
 public class LoginActivity extends AppCompatActivity {
     private FirebaseAuth mAuth;
     final String TAG = "LoginActivity";

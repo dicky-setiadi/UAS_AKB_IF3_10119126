@@ -10,6 +10,10 @@ import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+// NIM: 10119126
+// Nama: Dicky Setiadi
+// Kelas: IF-3
+
 public class UpdateCatatan extends AppCompatActivity {
 
     protected Cursor cursor;

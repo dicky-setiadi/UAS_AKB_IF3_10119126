@@ -8,6 +8,10 @@ import android.widget.TextView;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+// NIM: 10119126
+// Nama: Dicky Setiadi
+// Kelas: IF-3
+
 public class DetailActivity extends AppCompatActivity {
 
     protected Cursor cursor;

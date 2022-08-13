@@ -14,6 +14,10 @@ import androidx.appcompat.app.AppCompatActivity;
 import java.text.SimpleDateFormat;
 import java.util.Date;
 
+// NIM: 10119126
+// Nama: Dicky Setiadi
+// Kelas: IF-3
+
 public class CreateCatatan extends AppCompatActivity {
 
     protected Cursor cursor;

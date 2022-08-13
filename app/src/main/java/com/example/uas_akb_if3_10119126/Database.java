@@ -5,6 +5,10 @@ import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 import android.util.Log;
 
+// NIM: 10119126
+// Nama: Dicky Setiadi
+// Kelas: IF-3
+
 public class Database extends SQLiteOpenHelper {
     private static final String DATABASE_NAME = "notes_db.db";
     private static final int DATABASE_VERSION = 1;
